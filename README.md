@@ -1,4 +1,4 @@
-##Heart Disease Prediction
+# Heart Disease Prediction
 
 A machine learning classification project that predicts whether a person is likely to have heart disease based on clinical and demographic features. The project includes data preprocessing, exploratory data analysis, feature scaling, training multiple machine learning models, model evaluation, and deployment using Streamlit.
 
